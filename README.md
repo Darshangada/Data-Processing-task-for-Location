@@ -27,7 +27,7 @@ This project processes location data from two JSON files to analyze and extract 
 ### 5. Find the Most Reviewed Location
 - Identify the location with the highest number of reviews.
 
-### 6. Identify Incomplete Data (Bonus Step)
+### 6. Identify Incomplete Data 
 - Detect entries where metadata is missing or locations have incomplete information.
 
 ## Final Output
